@@ -6,11 +6,11 @@ This is a virtual organization for the ongoing studies of the language and its
 * https://github.com/simple-english;
 * https://github.com/basic-english - the research and development that had been
   started by C.K. Ogden a long time ago;
-* https://github.com/robo-english and https://github.com/robo-language;
+* https://github.com/robo-english, https://github.com/robo-language, https://github.com/in-robo;
 * https://github.com/common-english - well... this one is about the slang and
   other aspects of everyday use of language by "the commons", hehe;
 * https://github.com/natural-language - this is mostly for Natural Language
   Processing and machine-related matters and materials;
-* https://github.com/natural-languag-meaning - the last step of Natural
+* https://github.com/natural-language-meaning - the last step of Natural
   Language Processing which is an extraction of meaning.
 
