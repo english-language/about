@@ -2,6 +2,7 @@
 This is a virtual organization for the ongoing studies of the language and its
 ' use in communications of humans and automated systems. This is an umbrella organization enveloping the following themed virtual organizations:<br>
 * https://github.com/universal-english;
+* https://github.com/natural-english;
 * https://github.com/plain-english;
 * https://github.com/simple-english;
 * https://github.com/basic-english - the research and development that had been
