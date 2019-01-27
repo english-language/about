@@ -9,8 +9,7 @@ This is an umbrella organization enveloping the following themed virtual organiz
 * https://github.com/basic-english - the research and development that had been
   started by C.K. Ogden a long time ago;
 * https://github.com/robo-english, https://github.com/robo-language, https://github.com/in-robo;
-* https://github.com/common-english - well... this one is about the slang and
-  other aspects of everyday use of language by "the commons", hehe;
+* https://github.com/common-english - well... this one is about the slang and other aspects of everyday use of language by "the commons", hehe. Aside, but this meaning is becoming more and more obsolete and this term may become the main name of the language for international communications or a 'common' language spoken by _both_ men and machines. I will look into it a bit more;
 * https://github.com/natural-language - this is mostly for Natural Language
   Processing and machine-related matters and materials;
 * https://github.com/natural-language-meaning - the last step of Natural
