@@ -1,6 +1,7 @@
 # English Language
-This is a virtual organization for the ongoing studies of the language and its
-' use in communications of humans and automated systems. This is an umbrella organization enveloping the following themed virtual organizations:<br>
+"In the closing years of the twentieth century, the English language has become a global resource. As such, it does not owe its existence or the protection of its essence to any one nation or group. Inasmuch as a particular language belongs to any individual or community, English is the possession of every individual and every community that in any way uses it, regardless of what any other individual or community may think or feel about the matter." (Tom McArthur)<br><br>
+This is a virtual organization for the ongoing studies of the language and its use in communications of humans and automated systems.<br><br>
+This is an umbrella organization enveloping the following themed virtual organizations:<br>
 * https://github.com/universal-english;
 * https://github.com/natural-english;
 * https://github.com/plain-english;
