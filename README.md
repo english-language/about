@@ -3,11 +3,12 @@
 This is a virtual organization for the ongoing studies of the language and its use in communications of humans and automated systems.<br><br>
 This is an umbrella organization enveloping the following themed virtual organizations:<br>
 * https://github.com/universal-english;
+* https://github.com/standard-english;
 * https://github.com/natural-english;
+* https://github.com/core-english;
 * https://github.com/plain-english;
 * https://github.com/simple-english;
-* https://github.com/basic-english - the research and development that had been
-  started by C.K. Ogden a long time ago;
+* https://github.com/basic-english - the research and development that had been started by C.K. Ogden a long time ago;
 * https://github.com/robo-english, https://github.com/robo-language, https://github.com/in-robo;
 * https://github.com/common-english - well... this one is about the slang and other aspects of everyday use of language by "the commons", hehe. Aside, but this meaning is becoming more and more obsolete and this term may become the main name of the language for international communications or a 'common' language spoken by _both_ men and machines. I will look into it a bit more;
 * https://github.com/natural-language - this is mostly for Natural Language
